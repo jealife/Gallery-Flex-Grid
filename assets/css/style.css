@@ -95,4 +95,8 @@ main{
     .grid-col-4{
         grid-template-columns: repeat(3,1fr);
     }
+    .hero h1{
+        font-size: 7vw;
+        margin-bottom: .5rem;
+    }
 }
